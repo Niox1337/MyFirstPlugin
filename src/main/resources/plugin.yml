@@ -1,0 +1,4 @@
+name: MyFirstPlugin
+version: '${project.version}'
+main: lol.niox.myfirstplugin.MyFirstPlugin
+api-version: '1.20'
